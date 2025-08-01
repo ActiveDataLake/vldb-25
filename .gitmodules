@@ -1,0 +1,6 @@
+[submodule "duckdb-btrblocks"]
+	path = duckdb-btrblocks
+	url = https://github.com/pascalginter/duckdb-btrblocks
+[submodule "ActiveDataLake"]
+	path = ActiveDataLake
+	url = git@github.com:pascalginter/ActiveDataLake.git
